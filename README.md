@@ -1,7 +1,9 @@
 This repository consists of small projects programmed in JAVA.
-It is not public but only accessible via my resume because some of these projects include solutions to assignments from my school.
+It is not public and only accessible via my resume because some of these projects include solutions to assignments from my school.
+The java files exit in: src/edu/nyu/cs/dla9511
+Lastly, from A4 and onwards, all the class files in the bin/edu/nyu/cs/dla9511 must be compiled at the same time for the program to compile correctly.
 
-They are:
+Descriptions:
 A1: various small projects.
 A2: a program that lets you play Blackjack, and a program that prints out all prime numbers between 2 input nums from the user.
 A3: a program that asks the user for any verbal 'tics' and reports data such as the frequency, from any given text file.
