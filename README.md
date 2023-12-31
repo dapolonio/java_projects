@@ -1,5 +1,4 @@
 This repository consists of small projects programmed in JAVA.
-It is not public and only accessible via my resume because some of these projects include solutions to assignments from my school.
 The java files exit in: src/edu/nyu/cs/dla9511
 Lastly, from A4 and onwards, all the class files in the bin/edu/nyu/cs/dla9511 must be compiled at the same time for the program to compile correctly.
 
