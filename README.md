@@ -1,1 +1,12 @@
 This repository consists of small projects programmed in JAVA.
+It is not public but only accessible via my resume because some of these projects include solutions to assignments from my school.
+
+They are:
+A1: various small projects.
+A2: a program that lets you play Blackjack, and a program that prints out all prime numbers between 2 input nums from the user.
+A3: a program that asks the user for any verbal 'tics' and reports data such as the frequency, from any given text file.
+A4: a program that reverses a String or Number, and a program that returns the first unique Character.
+A5: Building a virtual moped that travels across Manhattan (0-10th av, 0-100th st).
+A6: Practice inheriting classes with Triangle attributes, UML diagrams, exception handling.
+A7: implementing interfaces.
+A8: Sodoku Validator: input a 9x9 grid of numbers, validate whether it's a valid sodoku solution.
